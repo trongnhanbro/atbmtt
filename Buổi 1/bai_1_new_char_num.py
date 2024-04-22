@@ -57,3 +57,6 @@ print("Mã hóa:", encrypted_text)
 decrypted_text = decryptAF(encrypted_text, a, b, m)
 print(decrypted_text)
 # print("Giải mã:", decrypted_text.encode('utf-8').decode('utf-8'))
+
+
+#hựhrwhj
